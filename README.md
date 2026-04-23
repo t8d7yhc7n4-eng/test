@@ -1,30 +1,3 @@
----
-
-## ✅ بعدها:
-1. اضغط **Commit** (فوق يمين)
-2. اكتب أي اسم (مثلاً: `update readme`)
-3. اضغط **Commit changes**
-
----
-
-## 🔥 النتيجة:
-- README بيصير مرتب وجميل
-- فيه كود واضح
-- مشروعك صار شكله احترافي
-
----
-
-## 💡 مهم:
-هذا بس “واجهة” المشروع  
-التشغيل الحقيقي يكون في **Codespaces (bash)**
-
----
-
-## 🚀 الخطوة الجاية (أهم):
-بعد ما تسوي Commit 👇
-
-ارجع للترمنال واكتب:
-
-```bash
-echo 'print("Hello World 🚀")' > app.py
-python3 app.py
+sudo apt update
+sudo apt install nmap -y
+nmap scanme.nmap.org
