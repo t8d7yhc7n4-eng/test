@@ -1,3 +1,7 @@
-sudo apt update
-sudo apt install nmap -y
+# تعلم الأمن السيبراني
+
+## الأدوات
+- nmap
+
+## أول تجربة
 nmap scanme.nmap.org
